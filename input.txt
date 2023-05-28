@@ -1,0 +1,15 @@
+OpenAI is an artificial intelligence research laboratory and company that focuses on developing and promoting artificial general intelligence (AGI). AGI refers to highly autonomous systems that outperform humans at most economically valuable work.
+
+OpenAI aims to ensure that AGI benefits all of humanity by adhering to a set of core principles. These principles include broadly distributing the benefits of AGI, prioritizing long-term safety, conducting research to make AGI safe, cooperating with other institutions, and avoiding uses of AI that may harm humanity or concentrate power.
+
+The organization was founded in December 2015 as a non-profit, with the goal of conducting research to advance AI capabilities and ensure its positive impact. In 2019, OpenAI transitioned to a for-profit company, stating that it would use any influence it obtains over AGI deployment to ensure it is used for the benefit of all.
+
+OpenAI has made significant contributions to the field of AI and natural language processing. They have developed various language models, including the GPT (Generative Pre-trained Transformer) series. GPT models are trained on massive amounts of data to generate coherent and contextually relevant text. These models have been used in a wide range of applications, including chatbots, content generation, language translation, and more.
+
+OpenAI also provides an API (Application Programming Interface) called OpenAI API, which allows developers to access and utilize their language models. This enables developers to integrate AI-powered capabilities into their applications and services.
+
+OpenAI continues to engage in cutting-edge research, collaborating with the AI community and working towards advancements in AGI technology. The organization's mission revolves around ensuring the benefits of AGI are shared by all of humanity, while addressing safety concerns and promoting responsible use of AI.
+
+
+
+
