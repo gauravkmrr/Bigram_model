@@ -1,1 +1,1 @@
-# Mynano_gpt
+# Bigram Model
