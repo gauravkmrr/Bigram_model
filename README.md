@@ -25,5 +25,5 @@ To train the model with your dataset, follow these steps:
 
 Prepare your dataset in a similar format as input.txt.
 Run the training script
-python train.py
+python bigram.py
 
