@@ -13,3 +13,17 @@ Prerequisites
 Python 3.8 or later
 PyTorch 1.8 or later
 CUDA toolkit (optional, for GPU acceleration)
+
+Installation
+Clone the repository and install the dependencies:
+git clone [repo-link]
+cd nanogptx
+pip install -r requirements.txt
+
+Usage
+To train the model with your dataset, follow these steps:
+
+Prepare your dataset in a similar format as input.txt.
+Run the training script
+python train.py
+
