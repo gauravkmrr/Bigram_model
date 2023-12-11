@@ -17,7 +17,7 @@ CUDA toolkit (optional, for GPU acceleration)
 Installation
 Clone the repository and install the dependencies:
 git clone [repo-link]
-cd nanogptx
+cd bigram_model
 pip install -r requirements.txt
 
 Usage
